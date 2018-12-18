@@ -254,4 +254,5 @@ fabric.properties
 ### Python Patch ###
 .venv/
 
+flaskFirst/site.db
 # End of https://www.gitignore.io/api/flask,python,pycharm
